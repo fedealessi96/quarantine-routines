@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{tpaP:function(e,t,l){"use strict";l.r(t);var n=l("q1tI"),a=l.n(n),r=l("Bl7J"),o=l("vrFN");t.default=function(e){e.data;return a.a.createElement(r.a,null,a.a.createElement(o.a,{title:"fedealessi1996"}),a.a.createElement("h1",null,"Yo! I'm Federico"),a.a.createElement("p",null,"Hey there! "),a.a.createElement("p",null,"The only thing you will see here will be what I do (or did) during Italy's lockdown."))}}}]);
+//# sourceMappingURL=component---src-pages-me-js-905fcce39b40c1abff57.js.map
