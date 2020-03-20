@@ -1,0 +1,12 @@
+{
+  "days": [
+    {
+      "date": "19 March 2020",
+      "event": "Deployed this site with About, Diary and fedealessi96 sections. No post is visible, except for the example one, used to test the page creation logic."
+    },
+    {
+      "date": "20 March 2020",
+      "event": "I created Diary's events as object of a JSON file and used them with gatsby-transfomer-json plugin.\n\n I've learned how (and where) to import styling files in gatsby, and so I created the styling for each day's card. I think this is too simple, maybe I will improve it in the next days. No post about my routines are visible yet."
+    }
+  ]
+}
