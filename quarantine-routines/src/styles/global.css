@@ -14,3 +14,15 @@
     border-bottom: 1px solid lightgray;
     margin-bottom: 5px;
 }
+
+.post-title {
+    text-decoration: none;
+    color: inherit;
+}
+
+.post {
+    border-bottom: 2px solid #fede96;
+    border-right: 4px solid #fede96;
+    margin: 1.45rem;
+    padding: 5px 10px;
+}
