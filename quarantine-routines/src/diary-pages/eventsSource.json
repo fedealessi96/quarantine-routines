@@ -7,6 +7,14 @@
     {
       "date": "20 March 2020",
       "event": "I created Diary's events as object of a JSON file and used them with gatsby-transfomer-json plugin.\n\n I've learned how (and where) to import styling files in gatsby, and so I created the styling for each day's card. I think this is too simple, maybe I will improve it in the next days. No post about my routines are visible yet."
+    },
+    {
+      "date": "21 March 2020",
+      "event": "I didn't do anything to improve the site, but dedicate this day to learn something more about GraphQL."
+    },
+    {
+      "date": "22 March 2020",
+      "event": "I finally deployed updates for posts' rendering in homepage (just two examples for now). Tomorrow I will start to post real posts with the summary of my day."
     }
   ]
 }
