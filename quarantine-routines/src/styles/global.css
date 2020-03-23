@@ -26,3 +26,23 @@
     margin: 1.45rem;
     padding: 5px 10px;
 }
+
+
+.post-header {
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid lightgrey;
+}
+
+.post-title {
+    color: #2c3a49;
+    margin-bottom: 0.45rem;
+    border: 0;
+}
+
+.post-date {
+    float: right;
+}
+
+.pippo {
+    color: blue;
+}
