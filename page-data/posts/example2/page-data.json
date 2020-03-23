@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-blog-post-js","path":"/posts/example2/","result":{"data":{"markdownRemark":{"html":"","frontmatter":{"title":"example2"}}},"pageContext":{"slug":"/posts/example2/"}}}
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/posts/example2/","result":{"data":{"markdownRemark":{"html":"","frontmatter":{"title":"example2","date":"03-08-1996"},"excerpt":""}},"pageContext":{"slug":"/posts/example2/"}}}
