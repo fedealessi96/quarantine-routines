@@ -14,7 +14,11 @@
     },
     {
       "date": "22 March 2020",
-      "event": "I finally deployed updates for posts' rendering in homepage (just two examples for now). Tomorrow I will start to post real posts with the summary of my day."
+      "event": "I finally deployed updates for posts' rendering in homepage (just two examples for now)."
+    },
+    {
+      "date": "23 March 2020",
+      "event": "Simple design of the template to display a post's page. Used MD formatting to style contents. I also published 'My first serious post`."
     }
   ]
 }
