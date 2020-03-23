@@ -6,11 +6,17 @@ import {Container} from "react-bootstrap";
 export default ({ data }) => {
     const post = data.markdownRemark;
     return (
-        <Container>
-            <h1>{post.frontmatter.title}</h1>
+        <Layout>
+            <Container>
+                <div className="post-header">
+                    <h2 className="post-title">{post.frontmatter.title}</h2>
+                    <i className="post-date">{post.frontmatter.date}</i>
+                </div>
 
-        </Container>
+                <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            </Container>
 
+        </Layout>
     )
 }
 
@@ -20,7 +26,9 @@ export const query = graphql`
       html
       frontmatter {
         title
+        date
       }
+      excerpt
     }
   }
 `
